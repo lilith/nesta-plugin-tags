@@ -6,11 +6,11 @@ Gem::Specification.new do |s|
   s.name        = "nesta-plugin-tags"
   s.version     = Nesta::Plugin::Tags::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["TODO: Write your name"]
-  s.email       = ["TODO: Write your email address"]
+  s.authors     = ["Nathanael Jones"]
+  s.email       = ["nathanael.jones@gmail.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{Adds support for article tags, wordpress style}
+  s.description = %q{Offers query methods and extensions to the Page class}
 
   s.rubyforge_project = "nesta-plugin-tags"
 
